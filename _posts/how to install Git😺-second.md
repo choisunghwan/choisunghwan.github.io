@@ -1,3 +1,8 @@
+---
+laylout: single
+title: "깃 설치 방법."
+---
+
 Windows에서 Git을 설치해보겠습니다.😺 
 
 1> [Git 홈페이지](https://git-scm.com/)로 가서 화면 하단의 ‘**Download 2.26.1 for Windows**’라는 버튼을 클릭합니다.
